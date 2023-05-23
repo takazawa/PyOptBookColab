@@ -1,3 +1,10 @@
+
+書籍「Pythonではじめる数理最適化」のサンプルコードにGoogle Colaboratoryでそのまま動くノートブックを追加
+
+以下元リポジトリのREADME
+
+---
+
 # Pythonではじめる数理最適化 <br/>〜ケーススタディでモデリングのスキルを身につけよう〜
 
 <p align="center"><a href="https://www.ohmsha.co.jp/book/9784274227356/"><img width="40%" src="https://www.ohmsha.co.jp/Portals/0/book/small/978-4-274-22735-6.jpg" /></a></p>
